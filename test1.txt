@@ -1,1 +1,2 @@
 Added first line
+Adding a second line... this is done in a feature branch
